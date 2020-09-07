@@ -1,2 +1,6 @@
 # Arquitectura-WEB
-UP
+Universidad Palermo
+
+** GONZALO NICOLAS PALACIOS**
+
+*LOGÍSTICA*
